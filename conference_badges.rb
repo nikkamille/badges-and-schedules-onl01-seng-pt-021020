@@ -10,7 +10,7 @@ end
 
 def assign_rooms(speakers)
   message = []
-  speakers.each_with_index
+  speakers.each_with_index()
 end
 
 def printer
