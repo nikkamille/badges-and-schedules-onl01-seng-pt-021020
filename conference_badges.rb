@@ -10,7 +10,7 @@ end
 
 def assign_rooms(attendees)
   room_assignments = []
-  attendees.each_with_index {|attendee, index| room_assignments <<
+  attendees.each_with_index {|attendee, index| room_assignments << 
 end
 
 def printer
